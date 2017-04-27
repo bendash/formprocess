@@ -1,5 +1,9 @@
 # Formprocess #
 
+## Notice ###
+
+This extension is no longer maintained. If you are looking for an alternative, upgrade to TYPO3 v8 or use powermail.
+
 ## What does it do? ##
 
 This extension offers the opportunity to define a custom Post Processor for the TYPO3 form system extension.
